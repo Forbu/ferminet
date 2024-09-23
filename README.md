@@ -4,7 +4,7 @@ Differents papers have been trying to use neural network to approximate solution
 
 The different papers :
 
-- ferminet (one specific architecture to do a kind of PINN on schrodiger equation)
+- ferminet (one specific architecture to do a kind of PINN on schrodinger equation)
 https://journals.aps.org/prresearch/pdf/10.1103/PhysRevResearch.2.033429, title Ab initio solution of the many-electron Schrödinger equation with deep neural networks
 
 - psiformer : A Self-Attention Ansatz for Ab-initio Quantum Chemistry, https://arxiv.org/pdf/2211.13672, attention based architecture
