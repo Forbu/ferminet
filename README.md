@@ -26,6 +26,10 @@ And basicly the idea is to minimize the loss :
 
 ![Screenshot 2024-09-23 at 22 54 31](https://github.com/user-attachments/assets/124635b8-551b-4b71-96b7-619eba9fa7ec)
 
+with the gradiant of the loss being (nicely compute in the papers):
+
+![Screenshot 2024-09-23 at 22 59 41](https://github.com/user-attachments/assets/55defb02-92ee-40b7-b565-58c8d3fd887a)
+
 Quantum mecanic is of course very complex and to understand the full extend of the scientific method, one should educate himself in quantum mecanics first.
 
 ![Screenshot 2024-09-23 at 22 57 35](https://github.com/user-attachments/assets/904109e8-c4f5-4931-b2a6-febf154aea98)
