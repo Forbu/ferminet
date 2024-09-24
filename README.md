@@ -1,3 +1,5 @@
+This is a try to reproduce the ferminet paper results.
+
 ### Ferminet paper
 
 Differents papers have been trying to use neural network to approximate solution of schrodinger equation.
