@@ -1,4 +1,4 @@
-> ⚠ This is a try to reproduce the ferminet paper results.
+> :warning: This is a try to reproduce the ferminet paper results.
 
 
 
