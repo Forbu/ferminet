@@ -37,3 +37,8 @@ with the gradiant of the loss being (nicely compute in the papers):
 Quantum mecanic is of course very complex and to understand the full extend of the scientific method, one should educate himself in quantum mecanics first.
 
 ![Screenshot 2024-09-23 at 22 57 35](https://github.com/user-attachments/assets/904109e8-c4f5-4931-b2a6-febf154aea98)
+
+
+#### The reproduction idea 
+
+![reprodiction](images/image.png)
